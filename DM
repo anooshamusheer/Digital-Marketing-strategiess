@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Marketing & Its Types</title>
+  <meta name="description" content="Learn about digital marketing and its types including SEO, SEM, Social Media, Content, Email, Affiliate, and more.">
+
+  <!-- 🔹 Paste your Google Search Console meta tag here -->
+  <!-- <meta name="google-site-verification" content="your-code-here"> -->
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #f8f9fa;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    footer {
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Digital Marketing & Its Types</h1>
+    <nav>
+      <a href="#overview">Overview</a>
+      <a href="#types">Types</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="overview">
+      <h2>What is Digital Marketing?</h2>
+      <p>
+        Digital marketing is the use of online platforms and strategies to promote products or services. 
+        It allows businesses to reach a global audience, increase visibility, and measure performance effectively.
+      </p>
+    </section>
+
+    <section id="types">
+      <h2>Types of Digital Marketing</h2>
+      <ul>
+        <li><strong>SEO:</strong> Search Engine Optimization</li>
+        <li><strong>SEM/PPC:</strong> Search Engine Marketing & Paid Ads</li>
+        <li><strong>Social Media Marketing:</strong> Facebook, Instagram, LinkedIn</li>
+        <li><strong>Content Marketing:</strong> Blogs, videos, and infographics</li>
+        <li><strong>Email Marketing:</strong> Personalized communication with subscribers</li>
+        <li><strong>Affiliate Marketing:</strong> Partner-driven promotion</li>
+        <li><strong>Influencer Marketing:</strong> Collaborating with creators</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:you@example.com">you@example.com</a></p>
+      <p>Follow us on <a href="#">Facebook</a> | <a href="#">LinkedIn</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© <span id="year"></span> Digital Marketing & Its Types. All rights reserved.</p>
+  </footer>
+
+  <script>
+    // Auto-update year
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
