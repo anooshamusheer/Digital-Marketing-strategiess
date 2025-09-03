@@ -3,6 +3,7 @@ Digital marketing:
 In today world Digital marketing is Essential for Business to grow & build their online presence in market Digital Marketing is a platform that define your identity in customer mind through Advertisement, Organically (SEO), Content Marketing ,Email Marketing, Social Media Platform(Facebook, Linkedin, Instagram)
 
 Types Of Digital Marketing
+
 1)Social Media Marketing
 
 2)Search Engine Marketing
